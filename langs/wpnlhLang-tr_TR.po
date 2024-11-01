@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp Not Login Hide 1.0.0\n"
+"POT-Creation-Date: 2016-10-28 19:46+0100\n"
+"PO-Revision-Date: 2016-10-28 19:48+0300\n"
+"Last-Translator: WpAJANS - Mustafa KÜÇÜK <info@wpajans.net>\n"
+"Language-Team: WpAJANS - Mustafa KÜÇÜK <info@wpajans.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_TR\n"
+"X-Generator: Poedit 1.8.9\n"
+
+msgid "WPNLH Settings"
+msgstr "WPNLH Ayarları"
+
+msgid "Welcome to WordPress Not Login Hide About Page!"
+msgstr "WordPress Not Login Hide Tanıtım Sayfasına Hoş geldiniz!"
+
+msgid "This plugin with optional the user who visited your site for content show you want to log in"
+msgstr "Bu eklenti ile sitenizi ziyaret eden kullanıcılarınız için isteğe bağlı olarak yazı ve ya sayfa içinde istediğiniz bir kısmı ve ya yazının tamamını görmesi için üyelik girişi isteyebilirsiniz."
+
+msgid "Shortcode usage"
+msgstr "Kısa kod kullanımı"
+
+msgid "[wpnlh] test content [/wpnlh]"
+msgstr "[wpnlh] test içerik [/wpnlh]"
+
+msgid "Post Full Hide"
+msgstr "Yazıyı Tamamen Gizleme"
+
+msgid "When adding or editing post,page on the right side WPNLH Options take a look at!"
+msgstr "Yazı, sayfa eklerken ve ya düzenlerken sağ kısımdaki WPNLH Ayarları kısmına göz atın!"
+
+msgid "Donate!"
+msgstr "Bağış yapın!"
+
+msgid "Donate"
+msgstr "Bağış yapın"
+
+msgid "Please donate to develop free add-ons for you"
+msgstr "Sizler için ücretsiz eklentiler geliştirmemiz için, lütfen bağış yapın!"
+
+msgid "Settings saved!"
+msgstr "Ayarlar kaydedildi!"
+
+msgid "Message"
+msgstr "Uyarı mesajı"
+
+msgid "Update"
+msgstr "Güncelle"
+
+msgid "WPNLH Options"
+msgstr "WPNLH Ayarları"
+
+msgid "Custom Message"
+msgstr "Özel Mesaj"
+
+msgid "Hide?"
+msgstr "Gizle?"

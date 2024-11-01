@@ -1,0 +1,9 @@
+#wpnlh_navbar{padding:15px;background:#03A9F4}
+#wpnlh_navbar span{color:#fff;font-size:18px;}
+#wpnlh_navbar small{color:#fff;font-size:10px;}
+#wpnlh_content{background:#fff;display: block;min-height:250px }
+.wpnlh_content_block{padding:15px;}
+#wpnlhTextBox{padding: 15px;height: 40px;width: 100%;}
+#wpnlh_select{width:100%;padding:15px;height:40px;}
+#wpnlh_button{background:#03A9F4;float:right;border:none;padding:15px;color:#fff;width:160px;margin:10px 0}
+#wpnlh_button:hover{background-color:#0692d2;cursor:pointer;}
